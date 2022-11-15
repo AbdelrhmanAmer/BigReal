@@ -30,6 +30,7 @@ void BigDecimalInt :: setNumber(string num)
         {
             sign = '+';
         }
+        
     }
 }
 
