@@ -7,6 +7,7 @@ bool BigDecimalInt :: checkValidInput(string input)
     return regex_match(input, validInput);
 }
 
+
 // constructor that takes a string as an input.
 void BigDecimalInt :: setNumber(string num)
 {
